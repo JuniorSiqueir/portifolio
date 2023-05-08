@@ -86,7 +86,6 @@ body {
 }
 
 .apresentacao__botoes {
-   /*background-color: #35ff0d;*/
    width: 50%;
    display: flex;
    justify-content: center;
@@ -137,5 +136,9 @@ body {
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .apresentacao__botoes {
+        font-size: 1.3rem;
     }
 }
