@@ -9,8 +9,8 @@
 
 :root {
     --cor-primaria: #2A1E4F;
-    --cor-secundaria: #14FFEC; 
-    --cor-terciaria: #0D7377;
+    --cor-secundaria: #ffffff; 
+    --cor-terciaria: #14FFEC;
     --cor-hover: #211940;
 
     --fonte-primaria:'Krona One', sans-serif;
@@ -63,6 +63,11 @@ body {
 .apresentacao__conteudo__titulo {
     font-size: 2.25rem;
     font-family: var(--fonte-primaria);
+}
+
+.apresentacao__conteudo__formacoes {
+    font-size: 1.5rem;
+    font-family: var(--fonte-secundaria);
 }
 
 .apresentacao__conteudo__texto {
